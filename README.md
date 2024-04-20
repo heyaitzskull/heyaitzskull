@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on a birthday planner website for someone special!
+
 🌱 I’m currently learning 
+
 ⚡ Fun fact: I was born in Nepal
 
 <!--
