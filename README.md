@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on a birthday planner website for someone special!
+🌱 I’m currently learning 
+⚡ Fun fact: I was born in Nepal
 
 <!--
 **heyaitzskull/heyaitzskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
