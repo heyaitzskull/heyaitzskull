@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning 
 
-⚡ Fun fact: I was born in Nepal
+⚡ Fun fact: I love cats
 
 <!--
 **heyaitzskull/heyaitzskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
