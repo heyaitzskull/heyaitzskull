@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on a birthday planner website for someone special!
 
 🌱 I’m currently learning Javascript
 
