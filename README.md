@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript, Django, Ruby on Rails, and Machine Learning
 
-⚡ Fun fact: I love cats
+🔭 I’m currently working on an outdoor cat saftey app!
+
+⚡ Fun fact: I love cats!!!
 
 <!--
 **heyaitzskull/heyaitzskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
