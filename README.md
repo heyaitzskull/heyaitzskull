@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Ruby on Rails and Machine Learning
+🌱 I’m currently learning Node.js, and Machine Learning
 
 🔭 I’m currently working on an outdoor cat saftey app!
 
