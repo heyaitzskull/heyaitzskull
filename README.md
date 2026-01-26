@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Node.js, Next.js, and ML
 
-🔭 I’m currently working on an outdoor cat saftey app!
-
-⚡ Fun fact: I love cats!!!
 
 <!--
 **heyaitzskull/heyaitzskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
